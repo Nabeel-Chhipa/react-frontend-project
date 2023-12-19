@@ -8,7 +8,7 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route path='/users' exact>
+          <Route path='/' exact>
             <Users />
           </Route>
           <Route path='/places/new' exact>
