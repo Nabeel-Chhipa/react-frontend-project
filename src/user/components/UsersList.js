@@ -1,5 +1,6 @@
 import React from 'react'
 import UsersItem from './UsersItem'
+import './UsersList.css'
 
 const UsersList = props => {
 
